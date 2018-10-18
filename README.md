@@ -9,4 +9,4 @@ Prerequisites
 
 Guidelines
 ----------
-For each chapter, I uploaded R file (.R), R markdown file (.Rmd), results of Rmd in the form of pdf file
+For each chapter, I uploaded R file (.R), R markdown file (.Rmd), results of Rmd in the form of pdf file.
